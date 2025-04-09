@@ -28,7 +28,8 @@ public class BaseOrCommon {
 		} else if (browserName.equalsIgnoreCase("safari")) {
 
 			driver = new SafariDriver();
-		} else {
+		} 
+		else {
 
 			driver = new FirefoxDriver();
 		}
