@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-04T08:12:33 IST" name="Default suite" finished-at="2025-04-04T08:13:57 IST" duration-ms="83870">
+    <groups>
+    </groups>
+    <test started-at="2025-04-04T08:12:33 IST" name="Default test" finished-at="2025-04-04T08:13:57 IST" duration-ms="83870">
+      <class name="Tests.TC_1_VerifyMedicines">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:12:27 IST" name="launchBrowser" finished-at="2025-04-04T08:12:33 IST" duration-ms="5962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:12:33 IST" name="launchURL" finished-at="2025-04-04T08:12:45 IST" duration-ms="12651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method is-config="true" signature="maxmizeTheBrowser()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:12:45 IST" name="maxmizeTheBrowser" finished-at="2025-04-04T08:12:46 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxmizeTheBrowser -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:12:46 IST" name="waiting" finished-at="2025-04-04T08:12:46 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="veriyHeaderTabs()[pri:1, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:12:46 IST" name="veriyHeaderTabs" finished-at="2025-04-04T08:13:23 IST" duration-ms="37739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriyHeaderTabs -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:13:23 IST" name="waiting1" finished-at="2025-04-04T08:13:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="waiting()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:13:23 IST" name="waiting" finished-at="2025-04-04T08:13:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="mouseHoveringToMedicines()[pri:2, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:13:23 IST" name="mouseHoveringToMedicines" finished-at="2025-04-04T08:13:57 IST" duration-ms="33062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoveringToMedicines -->
+        <test-method is-config="true" signature="waiting1()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:13:57 IST" name="waiting1" finished-at="2025-04-04T08:13:57 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.TC_1_VerifyMedicines@7975d1d8]" started-at="2025-04-04T08:13:57 IST" name="closeBrowser" finished-at="2025-04-04T08:14:01 IST" duration-ms="3819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.TC_1_VerifyMedicines -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
