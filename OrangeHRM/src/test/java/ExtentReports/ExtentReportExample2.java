@@ -29,7 +29,7 @@ public class ExtentReportExample2 extends BaseOrCommon {
 
 		report = new ExtentReports(System.getProperty("user.dir") + "\\Early.html");
 
-		test = report.startTest("Manasa");
+		test = report.startTest("Harsitha");
 	}
 
 	@BeforeTest
@@ -47,7 +47,7 @@ public class ExtentReportExample2 extends BaseOrCommon {
 	@BeforeClass
 	public void launchURL() {
 
-		browserLaunching("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+		URLLaunching("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 
 		System.out.println("i am in @BeforeClass method");
 
